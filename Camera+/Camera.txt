@@ -1,0 +1,1 @@
+Adds new camera blocks. Goes well with "Video Sensing".

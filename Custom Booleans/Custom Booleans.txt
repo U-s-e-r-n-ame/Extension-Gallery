@@ -1,0 +1,1 @@
+Note: Booleans are stored in memory and reset when the project runtime is restarted. The event hat uses edge activation.

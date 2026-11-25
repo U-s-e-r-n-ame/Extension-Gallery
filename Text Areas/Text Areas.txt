@@ -1,0 +1,1 @@
+Please Note: Text areas are HTML elements displayed over the stage. Password masking uses browser-supported text masking styles, so exact custom symbols may vary by browser. The font choices use available system fonts or approximations; Scratch-specific fonts may need to be installed separately
